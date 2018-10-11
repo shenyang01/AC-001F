@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_app"
+    android:orientation="vertical">
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleText="@string/title_measure"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/measure_finger_identify_img_top_margin"
+        android:src="@drawable/jiqi"
+        android:scaleType="centerInside"/>
+
+    <ImageView
+        android:id="@+id/handIV"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="42dp"
+        android:layout_marginTop="-42dp"
+        android:src="@drawable/hand"/>
+
+    <TextView
+        android:id="@+id/tipTV"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/measure_finger_identify_tip_top_margin"
+        android:text="@string/tip_finger_identify"
+        android:textSize="@dimen/font_content"
+        android:textColor="@color/font_body"/>
+
+</LinearLayout>

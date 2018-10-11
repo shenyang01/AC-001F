@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\look.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\look.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\spo_no2.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\spo_no2.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\wifi.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\spo_no1.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\spo_no1.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\fanhui.png",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\fanhui.png"
+    }
+]
