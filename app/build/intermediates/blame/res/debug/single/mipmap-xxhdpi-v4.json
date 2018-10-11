@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\sp.bmp",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xxhdpi\\sp.bmp"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\spo_no1.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\spo_no1.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\look.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\look.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\wifi.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\fanhui.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\spo_no2.png",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\mipmap-xhdpi\\spo_no2.png"
+    }
+]

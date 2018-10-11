@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_member.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_member.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e490db6c491e87dcbf5bc91eea1883a6\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finger_bind1.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_finger_bind1.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finger_identify.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_finger_identify.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sp.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\sp.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_info.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\item_wifi_info.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finger_bind2.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_finger_bind2.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wificonn.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_wificonn.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spo_tip.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\spo_tip.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_priority_pick.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_priority_pick.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_layout.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\base_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_fragment_report.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_fragment_report.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_view.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\camera-1.1.6.aar\\cf51d996f86a5a5d7c9f2b0111d72aca\\res\\layout\\camera_view.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spo2_activity.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\spo2_activity.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_role_chose.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_role_chose.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_role_chose.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\dialog_role_chose.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_fragment_tag_edit.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_fragment_tag_edit.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_fragment_login.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_fragment_login.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e490db6c491e87dcbf5bc91eea1883a6\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_header.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\view_header.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure_tip.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_measure_tip.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_fragment_quick_signin.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_fragment_quick_signin.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_chose_activity.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\function_chose_activity.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_wifi_conn_lv.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\widget_wifi_conn_lv.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_wifi_pwd.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\widget_wifi_pwd.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure_err.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_measure_err.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_quick_signin.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_quick_signin.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure_pre.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_measure_pre.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_fragment_guide.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_fragment_guide.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_tag_state.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_tag_state.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_setting.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\item_setting.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_fab_bg.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_fab_bg.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e490db6c491e87dcbf5bc91eea1883a6\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_erweima.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_erweima.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\95a95562f2e17e16540b952ce35d47ce\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_get_pic.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\dialog_get_pic.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sugar_chose.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\dialog_sugar_chose.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\95a95562f2e17e16540b952ce35d47ce\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_info.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_system_info.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\68a99235e04f6988e46383225466665d\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e490db6c491e87dcbf5bc91eea1883a6\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_activity.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_activity.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_fab_action.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_fab_action.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fp.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\dialog_fp.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deviceid.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_deviceid.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure_result.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_measure_result.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btg_view_global_progress.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\bugtags-lib-3.0.0.aar\\c695bf440b80a25b8772e699fafaa896\\res\\layout\\btg_view_global_progress.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_measure.xml",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\layout\\activity_measure.xml"
+    },
+    {
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e490db6c491e87dcbf5bc91eea1883a6\\res\\layout\\notification_template_part_time.xml"
+    }
+]
