@@ -1,0 +1,104 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId "com.zxcn.imai.smart"
+        minSdkVersion 19
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi"
+            moduleName "serial_port"
+        }
+        externalNativeBuild {
+            cmake {
+                cppFlags ""
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    externalNativeBuild {
+        cmake {
+            path "CMakeLists.txt"
+        }
+    }
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    compileOptions{
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    //添加如下配置就ok了
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    //配置自定义打包名称
+    android.applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "AC001_1.0.0.180929_beta.apk"
+        }
+    }
+}
+
+//应用 Bugtags 插件
+apply plugin: 'com.bugtags.library.plugin'
+
+//Bugtags 插件配置
+bugtags {
+    //自动上传符号表功能配置，如果需要根据 build varint 配置，请参考帮助中心->符号表->Android 符号表->配置自动上传符号表
+    appKey "874a62a0f59dd1d209b691d7e04b514f"  //这里是你的 appKey
+    appSecret "222a161bb8ff5f50259d8ad9234294a2"    //这里是你的 appSecret，管理员在设置页可以查看
+    mappingUploadEnabled true
+
+    //网络跟踪功能配置(企业版)
+    trackingNetworkEnabled true
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'com.android.support:appcompat-v7:26.+'
+    implementation 'com.android.support:support-v4:26.+'
+    implementation 'com.android.support:cardview-v7:26.+'
+    testCompile 'junit:junit:4.12'
+    //    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    //    compile 'com.squareup.retrofit2:converter-gson:2.3.0'
+    //    compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+    //    compile 'io.reactivex.rxjava2:rxjava:2.1.2'
+    //    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    //    compile 'com.google.code.gson:gson:2.8.1'
+    implementation 'io.reactivex:rxandroid:1.1.0'
+    implementation 'com.squareup.retrofit:adapter-rxjava:+'
+    implementation 'com.squareup.retrofit2:retrofit:2.0.0-beta4'
+    implementation 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+    implementation 'com.squareup.retrofit2:adapter-rxjava:2.0.0-beta4'
+    implementation 'com.squareup.okhttp:okhttp:2.4.0'
+    implementation 'com.google.code.gson:gson:2.8.1'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'cjt.library.wheel:camera:1.1.6'
+    implementation 'com.bugtags.library:bugtags-lib:latest.integration'
+    implementation 'com.jakewharton.timber:timber:4.5.1'
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+    //butterknife
+    implementation 'com.jakewharton:butterknife:8.5.1'
+    implementation 'com.journeyapps:zxing-android-embedded:3.5.0'  //生成二维码依赖
+}

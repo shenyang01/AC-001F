@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleText="@string/function_chose"/>
+
+    <ImageView
+        android:id="@+id/iv_pressure"
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:src="@drawable/xueya"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/iv_spo"
+        android:layout_width="match_parent"
+        android:src="@drawable/xueyang"
+        android:layout_marginTop="15dp"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

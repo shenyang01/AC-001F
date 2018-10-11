@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/font_white">
+
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleText="@string/spo2">
+    </com.zxcn.imai.smart.ui.HeaderView>
+
+    <TextView
+        android:id="@+id/result_card_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headerView"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/font_black"
+        android:textSize="16sp"
+        android:layout_centerHorizontal = "true"
+        />
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/result_card_name"
+        android:layout_marginTop="10dp"
+        android:text="获取数据"
+        android:visibility="invisible"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:id="@+id/curveChart1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_below="@+id/tv_status"
+        android:layout_marginTop="10dp"
+        android:background="@color/font_white"
+        android:orientation="vertical"
+        android:paddingEnd="15dp"
+        android:paddingStart="15dp"
+        android:layout_centerHorizontal="true"/>
+
+    <RelativeLayout
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_below="@+id/curveChart1"
+        android:gravity="center_horizontal"
+        android:visibility="invisible">
+
+        <TextView
+            android:id="@+id/line1"
+            android:layout_width="30dp"
+            android:layout_height="2dp"
+            android:layout_centerVertical="true"
+            android:background="@color/line_color"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="15dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/line1"
+            android:text="血氧容积波波形"
+
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:visibility="invisible">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tv_get_data"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:text="血氧饱和度"
+            android:textColor="@color/font_black"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tv_get_data"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="hr"
+            android:textColor="@color/suagr_color"
+            android:textSize="28sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_get_data"
+            android:layout_marginTop="35dp"
+            android:gravity="center"
+            android:text="动脉脉率"
+            android:textColor="@color/font_black"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_get_data"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/tv_1"
+            android:gravity="center"
+            android:text="spo"
+            android:textColor="@color/suagr_color"
+            android:textSize="28sp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_one"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/MeasurementCompletion"
+        style="@style/BlueBtn"
+        android:layout_height="50dp"
+        android:layout_below="@+id/tv_time"
+        android:layout_centerHorizontal="true"
+        android:text="@string/MeasurementCompletion"
+        android:layout_marginBottom = "10dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="10dp"
+        />
+</RelativeLayout>

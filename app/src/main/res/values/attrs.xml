@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="header">
+        <attr name="leftImg" format="reference"/>
+        <attr name="leftText" format="string"/>
+        <attr name="titleText" format="string"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="BpBoard">
+        <attr name="bb_degree_color" format="color"/>
+        <attr name="bb_degree_pointer_color" format="color"/>
+        <attr name="bb_degree_distinct_color" format="color"/>
+        <attr name="bb_degree_in_pointer_size" format="dimension"/>
+        <attr name="bb_degree_out_pointer_size" format="dimension"/>
+        <attr name="bb_record" format="integer"/>
+
+        <attr name="bb_label_color" format="color"/>
+        <attr name="bb_bit_color" format="color"/>
+        <attr name="bb_value_color" format="color"/>
+
+        <attr name="bb_label_size" format="dimension"/>
+        <attr name="bb_bit_size" format="dimension"/>
+        <attr name="bb_value_size" format="dimension"/>
+        
+        <attr name="bb_radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="RoundImage">
+        <attr name="corner" format="dimension"/>
+    </declare-styleable>
+</resources>

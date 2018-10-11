@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <View
+        android:id="@+id/bg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/high_head_view"
+        android:background="@color/bg_title_bar"/>
+    <View
+        android:id="@+id/statusView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/high_status"/>
+    <TextView
+        android:id="@+id/leftTV"
+        android:layout_below="@id/statusView"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/high_title"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/activity_left_margin"
+        android:paddingRight="@dimen/activity_left_margin"
+        android:text="@string/title_back"
+        android:textSize="@dimen/font_content"
+        android:textColor="@color/font_white"
+        android:drawableLeft="@drawable/fanhui"
+        android:drawablePadding="@dimen/drawable_padding_m"/>
+    <TextView
+        android:id="@+id/titleTV"
+        android:layout_below="@id/statusView"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/high_title"
+        android:textColor="@color/font_white"
+        android:textSize="@dimen/font_title"/>
+
+    <!--<TextView-->
+        <!--android:id="@+id/tv_usb"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:text="USB"-->
+        <!--android:visibility="invisible"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:textColor="@color/font_white"-->
+       <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_height="45dp" />-->
+</RelativeLayout>

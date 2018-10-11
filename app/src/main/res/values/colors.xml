@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6684f0</color>
+    <color name="colorPrimaryDark">#6684f0</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_title_bar">#6684f0</color>
+
+
+    <color name="bg_app">@android:color/white</color>
+
+    <color name="font_white">@android:color/white</color>
+    <color name="font_blue">#4e7bd4</color>
+    <color name="font_body">#333333</color>
+    <color name="font_hint">#999999</color>
+    <color name="font_label">#696969</color>
+    <color name="font_black">#000000</color>
+    <color name="suagr_color">#39adff</color>
+
+    <color name="point">#ff9854</color>
+
+    <color name="transport">#00000000</color>
+
+    <color name="divider_gray">#d3d3d3</color>
+
+    <color name="color1">#FFFFFF</color>
+    <color name="color2">#666666</color>
+    <color name="color3">#D0D0D0</color>
+    <color name="color4">#F6F6F6</color>
+    <color name="color13">#F9974E</color>
+    <color name="color14">#59B29C</color>
+    <color name="color25">#ED5564</color>
+    <color name="color26">#D7D8DC</color>
+    <color name="line_color">#ED5564</color>
+</resources>

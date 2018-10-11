@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/login_input_left_margin"
+        android:layout_marginRight="@dimen/login_input_left_margin"
+        android:padding="1dp"
+        android:background="@drawable/shape_white_round2"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/launch_beffor"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/input_height"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="空腹"
+            android:textSize="@dimen/font_content"
+            android:textColor="@color/font_body"
+            android:gravity="center_vertical"
+            android:background="@drawable/selector_item_top"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#eeeeee"/>
+
+        <TextView
+            android:id="@+id/launch_after"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/input_height"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="餐后"
+            android:textSize="@dimen/font_content"
+            android:textColor="@color/font_body"
+            android:gravity="center_vertical"
+            android:background="@drawable/selector_item_btm"/>
+
+    </LinearLayout>
+</LinearLayout>

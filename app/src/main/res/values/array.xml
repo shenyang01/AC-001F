@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="role">
+        <item>请选择用户类型</item>
+        <item>爷爷</item>
+        <item>奶奶</item>
+        <item>爸爸</item>
+        <item>妈妈</item>
+    </array>
+    <array name="finger">
+        <item>是</item>
+        <item>否</item>
+    </array>
+</resources>

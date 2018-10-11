@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="high_status">0dp</dimen>
+    <dimen name="high_title">50dp</dimen>
+    <dimen name="high_head_view">50dp</dimen>
+
+    <dimen name="activity_left_margin">16dp</dimen>
+    <dimen name="card_activity_margin">20dp</dimen>
+
+    <dimen name="drawable_padding_m">10dp</dimen>
+
+    <dimen name="img_role_width">160dp</dimen>
+    <dimen name="img_role_height">138dp</dimen>
+
+    <dimen name="measure_pre_card_height">182dp</dimen>
+    <dimen name="measure_pre_card_top_margin">28dp</dimen>
+    <dimen name="measure_pre_card_left_margin">20dp</dimen>
+    <dimen name="measure_pre_heart_top_margin">50dp</dimen>
+    <dimen name="measure_pre_btn_top_margin">16dp</dimen>
+    <dimen name="measure_pre_btn_measure_width">90dp</dimen>
+    <dimen name="measure_pre_btn_measure_height">30dp</dimen>
+    <dimen name="measure_pre_divider_top_margin">34dp</dimen>
+    <dimen name="measure_pre_img_top_margin">10dp</dimen>
+    <dimen name="measure_pre_btn_bind_top_margin">22dp</dimen>
+    <dimen name="measure_pre_btn_bind_width">80dp</dimen>
+    <dimen name="measure_pre_btn_bind_height">28dp</dimen>
+
+
+    <dimen name="main_btn_measure_top_margin">18dp</dimen>
+    <dimen name="main_img_finger_top_margin">44dp</dimen>
+    <dimen name="main_divider_top_margin">32dp</dimen>
+    <dimen name="main_btn_top_margin">28dp</dimen>
+    <dimen name="main_btn_left_margin">12dp</dimen>
+
+
+    <dimen name="measure_tip_title_top_margin">30dp</dimen>
+    <dimen name="measure_tip_img_top_margin">36dp</dimen>
+    <dimen name="measure_tip_btn_top_margin">95dp</dimen>
+    <dimen name="measure_tip_btn_left_margin">76dp</dimen>
+
+    <dimen name="measure_finger_identify_img_top_margin">25dp</dimen>
+    <dimen name="measure_finger_identify_tip_top_margin">40dp</dimen>
+
+    <dimen name="measure_result_top_margin">28dp</dimen>
+    <dimen name="measure_result_left_margin">14dp</dimen>
+    <dimen name="measure_result_card_height">280dp</dimen>
+    <dimen name="measure_result_card_blue_height">26dp</dimen>
+    <dimen name="measure_result_data_top_margin">50dp</dimen>
+    <dimen name="measure_result_data_left_margin">20dp</dimen>
+    <dimen name="measure_result_time_top_margin">50dp</dimen>
+
+    <dimen name="login_input_top_margin">30dp</dimen>
+    <dimen name="login_input_left_margin">32dp</dimen>
+    <dimen name="login_input_icon_left_padding">12dp</dimen>
+    <dimen name="login_input_icon_right_padding">8dp</dimen>
+    <dimen name="login_input_code_top_margin">6dp</dimen>
+    <dimen name="login_btn_get_code_width">84dp</dimen>
+    <dimen name="login_btn_get_code_top_margin">5dp</dimen>
+    <dimen name="login_btn_get_code_right_margin">6dp</dimen>
+    <dimen name="login_btn_login_top_margin">20dp</dimen>
+
+    <dimen name="finger_bind_iv_top_margin">50dp</dimen>
+    <dimen name="finger_bind_iv2_top_margin">66dp</dimen>
+    <dimen name="finger_bind_tip_top_margin">80dp</dimen>
+    <dimen name="finger_bind_btn_top_margin">50dp</dimen>
+
+    <dimen name="btn_height">40dp</dimen>
+
+    <dimen name="dialog_btn_width">84dp</dimen>
+    <dimen name="dialog_btn_height">36dp</dimen>
+
+    <dimen name="input_height">40dp</dimen>
+
+    <dimen name="font_title">18sp</dimen>
+    <dimen name="font_content">14sp</dimen>
+    <dimen name="font_tip">12sp</dimen>
+
+    <dimen name="font_light">24dp</dimen>
+
+    <dimen name="font_data_m">50sp</dimen>
+    <dimen name="font_data_l">80sp</dimen>
+</resources>

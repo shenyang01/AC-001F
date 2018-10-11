@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Smart</string>
+    <string name="title_main">角色选择</string>
+    <string name="title_measure_pre">血压血氧仪</string>
+    <string name="title_measure_tip">测量提示</string>
+    <string name="title_fp_identify">指纹识别</string>
+    <string name="title_measure">开始测量</string>
+    <string name="title_measure_result">测量结果</string>
+    <string name="title_phone">手机验证</string>
+    <string name="function_chose">功能选择</string>
+    <string name="title_finger_bind">指纹绑定</string>
+    <string name="title_measure_ing">正在测量</string>
+    <string name="title_back">返回</string>
+
+
+    <string name="measure_tip_title">请佩戴臂带</string>
+
+    <string name="tip_finger_identify">请按指纹开始测量</string>
+    <string name="tip_finger_input">请录入两个指纹</string>
+    <string name="tip_measure">血压测量中……</string>
+
+    <string name="btn_measure">血压测量</string>
+    <string name="btn_bindStart">开始指纹绑定</string>
+    <string name="btn_finger">指纹测量</string>
+    <string name="btn_role_chose">角色测量</string>
+    <string name="btn_next">开始测量</string>
+    <string name="btn_get_code">获取验证码</string>
+    <string name="btn_login">下一步</string>                F
+
+    <string name="label_pressure">气压</string>
+    <string name="label_high_bp">高压</string>
+    <string name="label_low_bp">低压</string>
+    <string name="label_pulse">脉搏</string>
+    <string name="label_bit_bp">mmHg</string>
+    <string name="label_bit_bpm">bpm</string>
+    <string name="label_measure_time">测量时间：</string>
+
+    <string name="text_role_chose_empty">请选择用户类型</string>
+    <string name="tv_sugar_status">空腹</string>
+
+
+    <string name="hint_user_phone">请输入手机号码</string>
+    <string name="hint_user_valid">请输入验证码</string>
+
+    <string name="toast_measure_fail">测量失败，请重新尝试</string>
+    <string name="toast_measure_exception">测量异常，请重新测量</string>
+    <string name="toast_back_main">再次点击，返回主界面</string>
+    <string name="toast_exit">再次添加退出程序</string>
+    <string name="toast_send_code_success">验证码已经发送，请注意查收</string>
+    <string name="toast_phone_error">手机号错误（1开头的11位数字）</string>
+    <string name="toast_code_empty">验证码不能为空</string>
+    <string name="toast_code_error">验证码错误</string>
+    <string name="toast_fp_switch_error">指纹功能未开启，请先开启指纹功能</string>
+    <string name="toast_fp_api_error">此设备不支持指纹登录，请尝试其它登录方式</string>
+    <string name="toast_fp_start_error">指纹模块初始化失败，请重新启动应用程序</string>
+    <string name="toast_login_first">请先绑定指纹再进行测量</string>
+    <string name="finger_starting">指纹开启中.... </string>
+
+    <string name="toast_fp_collect_info">请先录入两枚指纹</string>
+    <string name="toast_fp_put">请按下手指</string>
+    <string name="toast_fp_identify">正在识别</string>
+    <string name="toast_fp_put_again">请抬起手指，重新按下</string>
+    <string name="toast_fp_get_again">录入成功，请重新放置手指，再次录入</string>
+    <string name="toast_fp_pick_up">请抬起手指</string>
+    <string name="toast_fp_get_ing">指纹读取中，请耐心等待</string>
+    <string name="toast_fp_get_error">指纹获取失败，请重新放置手指</string>
+    <string name="toast_fp_role_chose">请先选择用户类型</string>
+
+    <string name="toast_fp_start_success">指纹识别成功，正在启动测量</string>
+
+    <string name="toast_fp_identify_fail">指纹识别失败</string>
+    <string name="toast_fp_empty">还没有绑定过指纹，请先绑定指纹</string>
+
+
+
+
+    <string name="toast_fp_collect_success_one">指纹采集成功, 请换只手指再次录入</string>
+    <string name="toast_fp_collect_success">指纹采集成功</string>
+    <string name="toast_fp_collect_error">指纹采集失败</string>
+    <string name="toast_fp_save_success">指纹保存成功</string>
+    <string name="toast_fp_save_error">指纹保存失败</string>
+
+
+    <string name="dialog_content_tip">您还没有绑定指纹，请先绑定指纹</string>
+    <string name="dialog_content_fp_error">指纹模块开启失败，请重新启动应用程序</string>
+    <string name="dialog_title_permission">提示信息</string>
+    <string name="dialog_message_permission">当前应用缺少必要权限，该功能暂时无法使用。如若需要，请单击【确定】按钮前往设置中心进行权限授权。</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_sure">确定</string>
+
+    <string name="dialog_item_pic">从相册获取</string>
+    <string name="dialog_item_camera">拍照</string>
+
+    <string name="concat_fp_error_time">指纹识别失败,您还有  %1$d  次机会尝试</string>
+    <string name="measure_sugar">血糖测量</string>
+    <string name="state">充电中，请勿操作!</string>
+    <string name="xieya">泄压</string>
+    <string name="wifiScanning">wifi扫描</string>
+    <string name="wifi_on_off">wifi-on/off</string>
+    <string name="start">开启</string>
+    <string name="stop">关闭</string>
+    <string name="wifiConnect">wifi连接</string>
+    <string name="mbreak">返回</string>
+    <string name="Password">请输入密码</string>
+    <string name="wifiConnectSu">wifi连接成功</string>
+    <string name="deviceID">设备ID</string>
+    <string name="systemInfo">系统信息</string>
+    <string name="versionNumber">当前版本号</string>
+    <string name="non_Registration">非注册用户模式</string>
+    <string name="scanning">扫码测量</string>
+    <string name="setting">设置</string>
+    <string name="scanningErr">扫码失败</string>
+    <string name="cameraMessage">相机打开出错，请重试</string>
+    <string name="countDown">倒计时</string>
+    <string name="overTime">扫码超时</string>
+    <string name="userName">请输入用户名</string>
+    <string name="MeasurementCompletion">完成</string>
+
+    <string name="spo2_tip">血氧操作提示</string>
+    <string name="spo2">血氧/脉率测量结果</string>
+    <string name="FingerprintOne">指纹一</string>
+    <string name="FingerprintTwo">指纹二</string>
+    <string name="isEmpty">信息不能为空</string>
+    <string name="QR_Code">二维码</string>
+    <string name="senPhone">发送到手机</string>
+    <string name="result_err">血压测量超过标准测量范围\n请重新测量</string>
+    <string name="result_errStart">重新测量</string>
+    <string name="tv_reg_name">用户名</string>
+    <string name="tv_reg_id">身份证号</string>
+    <string name="tv_reg_phone">手机号</string>
+    <string name="tv_reg_yanzheng">发送验证码</string>
+    <string name="tv_reg_yanzhengm">验证码</string>
+    <string name="tv_reg_zhiwen">指纹录入</string>
+    <string name="tv_reg_suc">注册完成</string>
+    <string name="toast_phone_empty">请输入验证码</string>
+    <string name="register">注册</string>
+    <string name="cardName">身份证:</string>
+    <string name="phoneNumber">手机号:</string>
+    <string name="verificationCode">验证码:</string>
+
+</resources>

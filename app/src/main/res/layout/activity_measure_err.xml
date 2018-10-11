@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleText="@string/title_measure_result" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginLeft="@dimen/measure_result_data_left_margin"
+        android:layout_marginRight="@dimen/measure_result_data_left_margin"
+        android:layout_marginTop="@dimen/measure_result_data_top_margin"
+        android:background="@drawable/measure_result_card"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/result_err"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:gravity="center"
+            android:lineSpacingExtra="5dp"
+            android:maxLines="2"
+            android:paddingEnd="30dp"
+            android:paddingStart="30dp"
+            android:text="@string/result_err"
+            android:textColor="@color/font_black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/result_errTime"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:text="@string/label_measure_time"
+            android:textColor="@color/font_label"
+            android:textSize="14sp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/result_errStart"
+        style="@style/BlueBtn"
+        android:text="@string/result_errStart"
+        android:layout_margin="60dp"
+        android:layout_height="50dp"/>
+</LinearLayout>
