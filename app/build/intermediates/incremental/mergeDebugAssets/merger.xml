@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\androidstu\AC-001F\AC-001F\app\src\main\assets"/><source path="E:\androidstu\AC-001F\AC-001F\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\androidstu\AC-001F\AC-001F\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\AC_001F\AC001_2.0.0.181011_base\AC-001F\app\src\main\assets"/><source path="F:\AC_001F\AC001_2.0.0.181011_base\AC-001F\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\AC_001F\AC001_2.0.0.181011_base\AC-001F\app\src\debug\assets"/></dataSet></merger>

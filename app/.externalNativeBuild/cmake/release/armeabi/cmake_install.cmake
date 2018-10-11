@@ -1,4 +1,4 @@
-# Install script for directory: E:/androidstu/AC-001F/AC-001F/app
+# Install script for directory: F:/AC_001F/AC001_2.0.0.181011_base/AC-001F/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/androidstu/AC-001F/AC-001F/app/.externalNativeBuild/cmake/release/armeabi/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/AC_001F/AC001_2.0.0.181011_base/AC-001F/app/.externalNativeBuild/cmake/release/armeabi/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

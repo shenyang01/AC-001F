@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "outputFile": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\f7b4e24a4242b7a32606aa0d837c311a\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\95a95562f2e17e16540b952ce35d47ce\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\values-he\\values-he.xml",
+            "outputFile": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\values-he\\values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\f7b4e24a4242b7a32606aa0d837c311a\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\95a95562f2e17e16540b952ce35d47ce\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

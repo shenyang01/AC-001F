@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
-        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\raw\\beep.ogg"
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\src\\main\\res\\raw\\beep.ogg"
     },
     {
-        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
-        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\f7b4e24a4242b7a32606aa0d837c311a\\res\\raw\\zxing_beep.ogg"
+        "merged": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\95a95562f2e17e16540b952ce35d47ce\\res\\raw\\zxing_beep.ogg"
     }
 ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "outputFile": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\values-v13\\values-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\debug\\values-v13\\values-v13.xml",
+            "outputFile": "F:\\AC_001F\\AC001_2.0.0.181011_base\\AC-001F\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\qqq\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c4539116f2b6f0edb16d0153df0af815\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
