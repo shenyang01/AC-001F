@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        app:titleText="@string/title_measure_result" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/headerView"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/result_card_name"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:textColor="@color/font_black"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/result_card_number"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:textColor="@color/font_black"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/measure_result_card_height"
+            android:layout_marginLeft="@dimen/measure_result_left_margin"
+            android:layout_marginRight="@dimen/measure_result_left_margin"
+            android:layout_marginTop="@dimen/measure_result_top_margin"
+            android:background="@drawable/measure_result_card"
+            android:elevation="2dp"
+            android:orientation="vertical"
+            android:translationZ="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/measure_result_data_left_margin"
+                android:layout_marginRight="@dimen/measure_result_data_left_margin"
+                android:layout_marginTop="@dimen/measure_result_data_top_margin"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_high_bp"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_low_bp"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_pulse"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/card_activity_margin"
+                    android:layout_marginTop="@dimen/activity_left_margin"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/highBpTV"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_data_m"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lowBpTV"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_data_m"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/pulseTV"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_data_m"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_bit_bp"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_bit_bp"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/label_bit_bpm"
+                        android:textColor="@color/font_label"
+                        android:textSize="@dimen/font_tip" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+            <TextView
+                android:id="@+id/resultstatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/label_measure_time"
+                android:textColor="@color/font_label"
+                android:textSize="@dimen/font_tip" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/measure_result_time_top_margin"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/label_measure_time"
+                    android:textColor="@color/font_label"
+                    android:textSize="@dimen/font_tip" />
+
+                <TextView
+                    android:id="@+id/timeTV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/font_label"
+                    android:textSize="@dimen/font_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:id="@+id/MeasurementCompletion"
+        style="@style/BlueBtn"
+        android:text="@string/MeasurementCompletion"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="60dp"
+        android:layout_height="50dp"/>
+</RelativeLayout>

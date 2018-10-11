@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\androidstu\AC-001F\AC-001F\app\libs"><file name="finger_070s.jar" path="E:\androidstu\AC-001F\AC-001F\app\libs\finger_070s.jar"/><file name="lite-orm-1.9.2.jar" path="E:\androidstu\AC-001F\AC-001F\app\libs\lite-orm-1.9.2.jar"/></source></dataSet><dataSet config="debug"><source path="E:\androidstu\AC-001F\AC-001F\app\src\debug\jniLibs"/></dataSet></merger>

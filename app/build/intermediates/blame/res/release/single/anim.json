@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\loading_animation.xml",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\shouzhi_moive.xml",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\anim\\shouzhi_moive.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\finger_track.xml",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\anim\\finger_track.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\sugar_shizhi.xml",
+        "source": "E:\\androidstu\\AC-001F\\AC-001F\\app\\src\\main\\res\\anim\\sugar_shizhi.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\androidstu\\AC-001F\\AC-001F\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zxcn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1a5a3af1852670606b3d60b5878e2a76\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_title_bar"
+    android:orientation="vertical">
+    <com.zxcn.imai.smart.ui.HeaderView
+        android:id="@+id/headerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+    <FrameLayout
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="350dp">
+        <com.zxcn.imai.smart.ui.BpBoardView
+            android:id="@+id/boardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:bb_radius="120dp"
+            app:bb_degree_pointer_color="@color/point"/>
+        <LinearLayout
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_pressure"
+                android:textColor="@color/font_white"
+                android:textSize="@dimen/font_tip"/>
+
+            <TextView
+                android:id="@+id/pressureTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/font_white"
+                android:text="0"
+                android:textSize="@dimen/font_data_l"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_bit_bp"
+                android:textColor="@color/font_white"
+                android:textSize="@dimen/font_tip"/>
+        </LinearLayout>
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="@string/tip_measure"
+        android:textColor="@color/font_white"
+        android:textSize="@dimen/font_light"/>
+</LinearLayout>
